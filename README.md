@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/HELAD/LearningAzurePipleine/_apis/build/status/aaah0907.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/HELAD/LearningAzurePipleine/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
